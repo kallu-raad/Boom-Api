@@ -1,7 +1,6 @@
-# Boom-Api
-📱 Kallu Boomber 😎💥
+# 📱 Kallu Boomber 😎💥
 
-Hey there! Welcome to Kallu Boomber 🎉, a super cool SMS bombing tool for testing and learning 📚, made just for Bangladeshi numbers 🇧🇩. Let’s have some fun while staying responsible! 😊
+Hey there! Welcome to 📱 Kallu Boomber 💥🎉, a super cool SMS bombing tool for testing and learning 📚, made just for Bangladeshi numbers 🇧🇩. Let’s have some fun while staying responsible! 😊
 ⚠️ Note: This is for educational use only! Be kind and follow the rules 🚫. Always get permission before testing! 🛡️
 
 🌟 What’s Awesome?
