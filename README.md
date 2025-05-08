@@ -13,7 +13,7 @@ Hey there! Welcome to 📱 Kallu Boomber 💥🎉, a super cool SMS bombing tool
 
 🛠️ Get Started
 
-Grab the code:git clone https://github.com/yourusername/kallu-boomber.git
+Grab the code:git clone https://github.com/kallu-raad/Boom-Api.git
 
 
 Set it up:cd kallu-boomber && pip install -r requirements.txt
